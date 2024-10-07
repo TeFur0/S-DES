@@ -9,7 +9,7 @@
 * 对随机的明密文对进行封闭测试
 
 ## **S-DES算法流程**
-![位加密](https://github.com/TeFur0/S-DES/blob/main/png/位加密.png?raw=true)
+![algorithm](https://github.com/TeFur0/S-DES/blob/main/png/algorithm.png?raw=true)
 ## **运行程序**
 ```bash
 sd_des.html
