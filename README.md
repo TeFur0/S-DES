@@ -14,3 +14,6 @@
 sd_des.html
 ```
 ## **功能测试与运行界面**
+
+* **主页面**
+![位加密](https://github.com/TeFur0/S-DES/blob/main/png/位加密.png?raw=true)
