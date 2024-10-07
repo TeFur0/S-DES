@@ -9,7 +9,7 @@
 * 对随机的明密文对进行封闭测试
 
 ## **开发环境**
-* Windows11
+* 操作系统：Windows11
 * 语言&框架：HTML5，CSS3，JavaScript
 * Web浏览器：Microsoft Edge
 ## **S-DES算法流程**
