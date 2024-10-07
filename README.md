@@ -20,7 +20,12 @@ sd_des.html
 
 * **交叉测试**
 
+这是其他组所进行的测试
+
 ![交叉f](https://github.com/TeFur0/S-DES/blob/main/png/交叉f.png?raw=true)
+
+这是我们组所进行的测试
+
 ![交叉](https://github.com/TeFur0/S-DES/blob/main/png/交叉.png?raw=true)
 
 * **ASCII码加密界面**
