@@ -18,11 +18,7 @@ sd_des.html
 * **二进制加密界面**
 ![位加密](https://github.com/TeFur0/S-DES/blob/main/png/位加密.png?raw=true)
 * **交叉测试**
-
-从别的组得到的数据
 ![交叉f](https://github.com/TeFur0/S-DES/blob/main/png/交叉f.png?raw=true)
-
-自己系统所获得的数据
 ![交叉](https://github.com/TeFur0/S-DES/blob/main/png/交叉.png?raw=true)
 * **ASCII码加密界面**
 ![ASCII加密](https://github.com/TeFur0/S-DES/blob/main/png/ASCII加密.png?raw=true)
