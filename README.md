@@ -4,10 +4,14 @@
 根据"信息安全导论"课程第5次课讲述的DES算法：
 
 * 实现简单的加解密（二进制加解密和ASCII码字符串加解密）
-* 对相同的相同的密文进行交叉测试
+* 对相同的密文进行交叉测试
 * 在已知明密文的条件下暴力破解出密钥
 * 对随机的明密文对进行封闭测试
 
+## **开发环境**
+* Windows11
+* 语言&框架：HTML5，CSS3，JavaScript
+* Web浏览器：Microsoft Edge
 ## **S-DES算法流程**
 ![algorithm](https://github.com/TeFur0/S-DES/blob/main/png/algorithm.png?raw=true)
 ## **运行程序**
@@ -22,7 +26,7 @@ sd_des.html
 
 * **交叉测试**
 
-这是其他组所进行的测试
+这是许哲凯组所进行的测试
 
 ![交叉f](https://github.com/TeFur0/S-DES/blob/main/png/交叉f.png?raw=true)
 
