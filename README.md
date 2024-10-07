@@ -25,3 +25,8 @@ sd_des.html
 ![ASCII加密](https://github.com/TeFur0/S-DES/blob/main/png/ASCII加密.png?raw=true)
 * **暴力破解界面**
 ![暴力破解](https://github.com/TeFur0/S-DES/blob/main/png/暴力破解.png?raw=true)
+* **封闭测试**
+
+针对同一个明密文对，可以确实存在多个不同的密钥K[i],k[j],能够加密相同的明文得到相同的密文。
+
+尤其是在低安全强度的加密算法中，明文空间内会出现不同的密钥加密得到相同的密文的情况。
